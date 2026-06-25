@@ -1,0 +1,13 @@
+@import 'tailwindcss';
+
+*{
+    font-family: 'Outfit';
+}
+
+body{
+    @apply bg-gray-200/70;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
